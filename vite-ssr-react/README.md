@@ -1,29 +1,23 @@
-# README #
+# Vite SSR React Template
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This project is a template for building server-side rendered (SSR) applications using Vite, React, and TypeScript. It includes setup for development and production environments, routing with React Router, and styling with CSS.
 
-### What is this repository for? ###
+## What is this repository for?
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+- Quick summary: A starter template for SSR applications with Vite and React.
+- Version: 0.0.0
 
-### How do I get set up? ###
+Clone the repository and install dependencies:
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+### Configuration
 
-### Contribution guidelines ###
+No additional configuration is needed to start. The project is pre-configured to support SSR with Vite and React.
 
-* Writing tests
-* Code review
-* Other guidelines
+### Dependencies
 
-### Who do I talk to? ###
+- React and React DOM for UI.
+- React Router for routing.
+- Express for the server.
+- Vite for bundling and development server.
 
-* Repo owner or admin
-* Other community or team contact
+See `package.json` for a full list of dependencies.
